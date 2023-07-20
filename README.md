@@ -10,8 +10,6 @@
 
 ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
 
-<a href="https://www.github.com/EkaterinaShreyner" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/EkaterinaShreyner?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Технологии
 
