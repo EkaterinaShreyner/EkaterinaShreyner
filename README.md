@@ -11,6 +11,7 @@
 ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
 
 
+
 ### Технологии
 
 <p align="left">
@@ -26,9 +27,14 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
+
+
 ### Социальные сети
 
 <p align="left"> <a href="https://www.github.com/EkaterinaShreyner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kkkatya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+
 
 
 ### GitHub статистика
