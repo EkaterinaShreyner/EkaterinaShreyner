@@ -1,13 +1,15 @@
-Привет 👋 Меня зовут Екатерина!
-==========================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Екатерина
+=================================================================================================================================
 
-Web-разработчик
----------------
+Начинающий Web-разработчик
+--------------------------
 
-* 🌍  I'm based in Moscow
-* ✉️  You can contact me at [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
+\- осваиваю новую профессию и прохожу обучение на платформе Яндекс Практикум - стремлюсь к работе с настоящими боевыми проектами
 
-### Skills
+* 🌍  Живу в Москве
+* ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
+
+### Технологии
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -22,9 +24,10 @@ Web-разработчик
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+### Социальные сети
 
-<p align="left"> <a href="https://www.github.com/EkaterinaShreyner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/EkaterinaShreyner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kkkatya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
 
 <!--
 **EkaterinaShreyner/EkaterinaShreyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
