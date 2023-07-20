@@ -10,6 +10,7 @@
 
 ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
 
+![Static Badge](https://img.shields.io/badge/Email?link=https%3A%2F%2Ft.me%2FShreyner_Ekaterina)
 
 
 
