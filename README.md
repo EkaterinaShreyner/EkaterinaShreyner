@@ -10,7 +10,7 @@
 
 ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
 
-![Static Badge](https://img.shields.io/badge/Email?logo=mail&link=kkkatya88%40yandex.ru)
+
 
 
 ### Технологии
