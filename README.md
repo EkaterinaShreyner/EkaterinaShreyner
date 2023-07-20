@@ -10,7 +10,7 @@
 
 ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
 
-[![Email Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://kkkatya88@yandex.ru)
+[![Email Status](https://travis-ci.com/username/projectname.svg?branch=master)]
 
 
 ### Технологии
