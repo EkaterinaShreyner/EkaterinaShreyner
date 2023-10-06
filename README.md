@@ -10,7 +10,6 @@
 
 ✉️  Связаться со мной: [kkkatya88@yandex.ru](mailto:kkkatya88@yandex.ru)
 
-[![Static Badge](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
 
 ### Технологии
